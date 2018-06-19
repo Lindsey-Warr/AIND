@@ -1,0 +1,15 @@
+-------------------
+input chars = 
+rver excellent for drawing the veil from men s motives and actions. but for the trained reasoner to "
+predicted chars = 
+men should s frow as the distrable and propession of the morting.  it is very crien, little of it on"
+-------------------
+input chars = 
+dler, of dubious and questionable memory. i had seen little of holmes lately. my marriage had drifte"
+predicted chars = 
+d upon the come of the coroner and that the corone was through she dood said the others, which mry h"
+-------------------
+input chars = 
+ of the singular tragedy of the atkinson brothers at trincomalee, and finally of the mission which h"
+predicted chars = 
+e wood she looked up in the door. there is the matter of the gead, and then he clack the come and th"
